@@ -6,4 +6,5 @@ Avoid asteroids and shoot to blast them! Each asteroid destroyed wins 1000 point
 * `RIGHT` - turn right
 * `UP` - accelerate
 * `SPACE` - shoot
-#####This game was created during the MOOC Java II Programming course by the University of Helsinki.
+
+##### This game was created during the MOOC Java II Programming course by the University of Helsinki.
